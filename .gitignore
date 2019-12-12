@@ -118,6 +118,8 @@ venv.bak/
 .workvenv/
 work2/
 work2
+.v-game
+.v-game/
 
 
 # Spyder project settings
