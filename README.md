@@ -1,2 +1,4 @@
 # worsty-worst
-sue and nancy make the worst game
+sue and nancy make the worst games
+
+<3
