@@ -218,14 +218,14 @@ class MyGame(arcade.Window):
         # Add the bullet to the appropriate lists
         self.bullet_sprite_list.append(bullet)
 
-    
-    def on_mouse_motion(self, x, y, dx, dy):
-        # handle mouse motion
-        
-        # move the center of the player sprite to match the mouse x. y
-        self.player_sprite.center_x = x
-        #self.player_sprite.center_y = y
-   
+        '''   
+            def on_mouse_motion(self, x, y, dx, dy):
+                # handle mouse motion
+                
+                # move the center of the player sprite to match the mouse x. y
+                self.player_sprite.center_x = x
+                #self.player_sprite.center_y = y
+        '''
   
     
     
